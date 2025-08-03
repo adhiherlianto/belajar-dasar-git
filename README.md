@@ -1,5 +1,8 @@
-# belajar-dasar-git
-## Heading 2
-### Hading 3
+# Daftar Biodata Siswa
+Daftar  Biodata siswa SMAN 1 Bekasi
 
-Mempelajari dasar-dasar git dan contohnya
+*Berikut ini Adalah biodata siswa*
+
+- Angkatan 2019
+- Angkatan 2020
+- Angkatan 2021
