@@ -6,3 +6,4 @@ Daftar  Biodata siswa SMAN 1 Bekasi
 - Angkatan 2019
 - Angkatan 2020
 - Angkatan 2021
+- Angkatan 2022
